@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/K3-github/DSA_Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/K3-github/DSA_Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/K3-github/DSA_Leetcode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0851-loud-and-rich](https://github.com/K3-github/DSA_Leetcode/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/K3-github/DSA_Leetcode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/K3-github/DSA_Leetcode/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/K3-github/DSA_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0931-minimum-falling-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0959-regions-cut-by-slashes](https://github.com/K3-github/DSA_Leetcode/tree/master/0959-regions-cut-by-slashes) |
