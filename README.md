@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0045-jump-game-ii) |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/K3-github/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/0072-edit-distance) |
@@ -1645,6 +1647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/K3-github/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
@@ -2127,4 +2130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
