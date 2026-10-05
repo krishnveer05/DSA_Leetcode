@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0838-push-dominoes](https://github.com/K3-github/DSA_Leetcode/tree/master/0838-push-dominoes) |
+| [0856-score-of-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/K3-github/DSA_Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0916-word-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0916-word-subsets) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/K3-github/DSA_Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -1660,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/K3-github/DSA_Leetcode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/K3-github/DSA_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/K3-github/DSA_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -2132,4 +2134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
