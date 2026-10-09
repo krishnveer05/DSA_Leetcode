@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K3-github/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/K3-github/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0189-rotate-array) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/K3-github/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K3-github/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/K3-github/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1418,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/K3-github/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/K3-github/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1581,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/K3-github/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0923-3sum-with-multiplicity](https://github.com/K3-github/DSA_Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1090-largest-values-from-labels](https://github.com/K3-github/DSA_Leetcode/tree/master/1090-largest-values-from-labels) |
@@ -1630,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/K3-github/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/K3-github/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/K3-github/DSA_Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -2139,4 +2144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/K3-github/DSA_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/K3-github/DSA_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
